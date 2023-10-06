@@ -9,3 +9,5 @@
 // const auth = initializeAuth(app, {
 //   persistence: getReactNativePersistence(ReactNativeAsyncStorage)
 // });
+
+// do this if this causes some issues in deployment
