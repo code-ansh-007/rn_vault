@@ -10,4 +10,4 @@
 //   persistence: getReactNativePersistence(ReactNativeAsyncStorage)
 // });
 
-// do this if this causes some issues in deployment
+// do this if this causes some issues in deployment of the app
